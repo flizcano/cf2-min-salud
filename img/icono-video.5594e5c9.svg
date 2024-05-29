@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="48" viewBox="0 0 49 48">
+  <g id="icono-video" transform="translate(-285 -6755)">
+    <rect id="Rectángulo_414324" data-name="Rectángulo 414324" width="49" height="48" transform="translate(285 6755)" fill="#f15151"/>
+    <g id="video" transform="translate(289.149 6760.903)">
+      <path id="Trazado_933099" data-name="Trazado 933099" d="M34.908,6H6.794A1.794,1.794,0,0,0,5,7.794V28.4a1.794,1.794,0,0,0,1.794,1.794H34.908A1.794,1.794,0,0,0,36.7,28.4V7.794A1.794,1.794,0,0,0,34.908,6Zm.125,22.4a.125.125,0,0,1-.125.125H6.794a.125.125,0,0,1-.125-.125V7.794a.125.125,0,0,1,.125-.125H34.908a.125.125,0,0,1,.125.125Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Trazado_933101" data-name="Trazado 933101" d="M29.1,18.365,18.251,12.108A.834.834,0,0,0,17,12.834V25.347a.834.834,0,0,0,1.251.726L29.1,19.816a.834.834,0,0,0,0-1.443ZM18.669,23.9V14.277l8.343,4.814Z" transform="translate(-1.989 -0.994)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
